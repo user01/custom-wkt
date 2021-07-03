@@ -1,5 +1,7 @@
 # Custom WKT
 
+[![Rust](https://github.com/user01/custom-wkt/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/user01/custom-wkt/actions/workflows/rust.yml)
+
 Tooling to render WKT values based on specific, custom data layouts.
 
 Given two series of 2-D data, grouped by classes, render into a list of [WKT `LINESTRING`s](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry).
