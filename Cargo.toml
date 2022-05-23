@@ -1,6 +1,6 @@
 [package]
 name = "custom-wkt"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["erik.langenborg@gmail.com"]
 license = "MIT"
@@ -28,5 +28,5 @@ classifier = [
     "Programming Language :: Python :: 3.6",
     "Programming Language :: Python :: 3.7",
 ]
-requires-python = ">=3.6"
+requires-python = ">=3.7"
 requires-dist = ["numpy>=1.16.0"]
